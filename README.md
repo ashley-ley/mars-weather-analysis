@@ -9,14 +9,17 @@ A comprehensive dataset collected by the Curiousity Rover contained weather info
 ## Data Analysis
 ### Coldest and Warmest Months
 We undertook an analysis to identify the coldest and warmest months on Mars at the location of the Curiosity rover. This involved calculating the average minimum daily temperature for each month and subsequently plotting the results as a bar chart. It was found that the coldest month on Mars was 'Month 3' and the warmest month on Mars was 'Month 8'
+
 ![image](https://github.com/yakopeca/mars-challenge/assets/132225987/d1f27a1f-69f6-433d-a092-ac3411203ac0)
 
 ### Atmospheric Pressure Analysis
 To uncover the months with the lowest and highest atmospheric pressures on Mars, we computed the average daily atmospheric pressure across all months. Our findings were visually depicted through a bar chart to enhance understanding.
+
 ![image](https://github.com/yakopeca/mars-challenge/assets/132225987/6597e90b-06e4-4316-bb7a-47ccdfb5141c)
 
 ### Terrestrial Days in a Martian Year
 Answering the intriguing question of how many terrestrial days exist in a Martian year, we evaluated the Earth days required for Mars to complete its orbit around the Sun. We supported this estimation by plotting the daily minimum temperature data.
+
 ![image](https://github.com/yakopeca/mars-challenge/assets/132225987/4e2d68be-bb32-4c14-a690-277e5fff5f96)
 
 # Conclusion
